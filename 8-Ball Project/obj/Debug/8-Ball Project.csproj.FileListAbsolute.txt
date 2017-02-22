@@ -1,0 +1,53 @@
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\ApplicationInsights.config
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\roslyn\csc.exe
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\roslyn\vbc.exe
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\roslyn\VBCSCompiler.exe
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\8-Ball Project.dll.config
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\8-Ball Project.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\8-Ball Project.pdb
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\Antlr3.Runtime.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\Microsoft.AI.Web.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\Microsoft.AI.WindowsServer.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\Microsoft.ApplicationInsights.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\Newtonsoft.Json.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\System.Web.Helpers.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\System.Web.Mvc.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\System.Web.Optimization.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\System.Web.Razor.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\System.Web.WebPages.Deployment.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\System.Web.WebPages.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\System.Web.WebPages.Razor.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\WebGrease.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\Microsoft.AI.Web.xml
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\Microsoft.AI.WindowsServer.xml
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\Microsoft.ApplicationInsights.xml
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\System.Web.Helpers.xml
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\System.Web.Mvc.xml
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\System.Web.Optimization.xml
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\System.Web.Razor.xml
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\System.Web.WebPages.xml
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\System.Web.WebPages.Deployment.xml
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\System.Web.WebPages.Razor.xml
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\Antlr3.Runtime.pdb
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\bin\Newtonsoft.Json.xml
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\obj\Debug\8-Ball Project.csprojResolveAssemblyReference.cache
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\obj\Debug\8-Ball Project.dll
+c:\users\jcarg\documents\visual studio 2015\Projects\8-Ball Project\8-Ball Project\obj\Debug\8-Ball Project.pdb
